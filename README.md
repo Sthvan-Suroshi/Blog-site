@@ -18,18 +18,13 @@ This project is a blog website where users can create, read, update, and delete 
 
 ### Frontend
 
-- [ReactJS](https://reactjs.org/)
-- [React Router](https://reactrouter.com/)
-- [Redux](https://redux.js.org/) (optional)
-- [Axios](https://axios-http.com/) for API calls
-- [Tailwind CSS](https://tailwindcss.com/) for styling
+- ReactJS
+- React Router
+- Redux
+- Axios for API calls
+- Tailwind CSS for styling
 
 ### Backend
 
-- [Appwrite](https://appwrite.io/) for backend services (authentication, database, storage)
+- Appwrite for backend services (authentication, database, storage)
 
-### Prerequisites
-
-- [Node.js](https://nodejs.org/) 
-- [npm](https://www.npmjs.com/) 
-- [Appwrite](https://appwrite.io/) server setup
